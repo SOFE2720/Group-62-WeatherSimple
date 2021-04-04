@@ -1,1 +1,4 @@
-
+--Before compiling tests:
+---1. Run code folder in WeatherSimple repository on a local host server such as VSCode Live Server.  
+---2. Within unit test and integration test files, replace web.driver argument with your local host http:// address. 
+---3. To compile, type "python" + file name you wish to test + ".py" into pyhton terminal. 
