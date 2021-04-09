@@ -2,7 +2,7 @@ from selenium import webdriver
 import time 
 
 driver = webdriver.Chrome(executable_path='./drivers/chromedriver')
-driver.get('http://127.0.0.1:5500/Code/index.html')
+driver.get('http://YOUR_LOCAL_HOST')
 
 time.sleep(3)
 
