@@ -4,7 +4,7 @@ Weather conditions can change drastically, affecting the safety of one’s trave
 
 ## Table of Contents 
 1. Project Information
-2. [Code] (https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Code) 
+2. [Code](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Code) 
 3. Design
 4. Requirements
 5. Test Cases
