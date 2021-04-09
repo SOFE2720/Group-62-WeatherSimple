@@ -1,5 +1,5 @@
 # How to Setup Test Case
-**Step 1:** Download testing model and code folder. 
+**Step 1:** Download test case and code folder. 
 
 **Step 2:** Open code folder in [Visual Studio Code](https://code.visualstudio.com/download) and create local server using **LiveServer extenstion**, ensure your local server is being run on Google Chrome. 
 
