@@ -5,3 +5,10 @@ This README.md provides a guide to help users download, and try out our WeatherS
 
 **Note: JavaScript must be enabled**
 
+## Step 1
+> Clone the repository 
+> git clone https://github.com/SOFE2720/Group-62-WeatherSimple.git
+
+## Step 2
+> Open index.html 
+> Enable location
