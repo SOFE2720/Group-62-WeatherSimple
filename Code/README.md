@@ -3,5 +3,5 @@ Contains all the code, for the WeatherSimple website. Website is ready to run fr
 
 This README.md provides a guide to help users download, and try out our WeatherSimple application. This can be easily done by downloading the file and unzipping, all required elements are with in the file. 
 
-Note: JavaScript must be enabled 
+**Note: JavaScript must be enabled**
 
