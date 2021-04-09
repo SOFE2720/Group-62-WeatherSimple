@@ -1,0 +1,6 @@
+# How to Setup Test Case
+**Step 1:** Download testing model and code folder. 
+
+**Step 2:** Open code folder in [Visual Studio Code](https://code.visualstudio.com/download) and create local server using **LiveServer extenstion**. 
+
+**Step 3:** Open [Integration.py](https://github.com/SOFE2720/Group-62-WeatherSimple/blob/main/Testing%20Model/integrationtest.py) in [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
