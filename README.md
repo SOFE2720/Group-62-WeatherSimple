@@ -5,11 +5,15 @@ Weather conditions can change drastically, affecting the safety of one’s trave
 ## Table of Contents 
 1. [**Project Information**](#Project-Information)
 2. [**Code**](#Code)
-1. [Code Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Code) 
-3. [**Design**](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Design)
-4. [**Requirements**](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Requirements)
-5. [**Test Cases**](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Test%20Case)
-6. [**Use Cases**](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Use%20Cases)
+        1. [Code Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Code) 
+3. [**Design**](#Design)
+1. [Design Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Design) 
+4. [**Requirements**](#Requirements)
+1.[Requirements](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Requirements)
+5. [**Test Cases**](#Test-Cases)
+1.[Test Case Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Test%20Case)
+6. [**Use Cases**](#Use-Cases)
+1. [Use Case Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Use%20Cases)
 
 ## Project Information
 ## **Code**
@@ -31,11 +35,14 @@ This README.md provides a guide to help users download, and try out our WeatherS
 >Enable location
 
 ## **Design**
-The design element contains contains a class diagram which details how all classes, entities and attributes. Along with a system level state diagram which details the states of the classes and attributes of the system. Finally A sequence diadram was included to display how a user may interfact with WeatherSimple.
 
 ## **Requirements**
 
-This section consists of  requirements for the program presented throughout multiple diagrams and descriptions. These include the Requirements Diagram, the User Interaction Interface, and Functioning Web Application. Along with each requirement, a small description and potential scenario is added in order to help further comprehension of each requirement. 
+This section consists of  requirements for the program presented throughout multiple diagrams and descriptions. 
+
+These include the Requirements Diagram, the User Interaction Interface, and Functioning Web Application. 
+
+Along with each requirement, a small description and potential scenario is added in order to help further comprehension of each requirement. 
 
 ## **Test Cases**
 
