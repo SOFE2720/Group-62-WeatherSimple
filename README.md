@@ -46,5 +46,30 @@ Along with each requirement, a small description and potential scenario is added
 
 ## **Test Cases**
 
+#### Note: Install Selenium package via `pip install selenium`
+## **Step 1**
+>Download test case and code folder. 
+
+## **Step 2**
+>Open code folder in [Visual Studio Code](https://code.visualstudio.com/download) and create local server using **LiveServer extenstion**, ensure your local server is being run on   Google Chrome. 
+
+## **Step 3:** 
+>Open [Integration.py](https://github.com/SOFE2720/Group-62-WeatherSimple/blob/main/Testing%20Model/integrationtest.py) in [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+## **Step 4:** 
+>Copy your local server hyperlink starting with `http://`  and paste into `driver.get()` function on line 5 of **integrationtest.py**
+
+## **Step 5** 
+>Open terminal and enter comand `python integrationtest.py` 
+
+
 ## **Use Case**
+
+Use cases, are a critical portion of this GitHub repository, where it helps build the future outlook of our application. By helping determing crucial requirements and refining these requirements. These use cases, show the value that specific requirements can provide to the consumer and to the overall outlook of WeatherSimple.
+
+The use case portion of this GitHub repository showcases, several aspects of our WealthSimple application that we built upon in the beginning stages of development cycle.
+- This portion includes a *JamBoard* that showcases, the user story needs that are separated into core website features, api features and developmental features. 
+- In addition, this folder also carries the *CRC Cards* that enables discussion. 
+- This folder also contains the *User Story* that showcases the value of a specific function back towards the consumer. 
+- Finally, this folder also contains the *Use Case Diagram* and the *Use Cases*, which shows how a person would interact with the system and its processes to accomplish these goals. These provide valuable information in the building of the functions and the future outlook of the program. 
 
