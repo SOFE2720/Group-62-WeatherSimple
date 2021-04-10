@@ -36,15 +36,11 @@ This README.md provides a guide to help users download, and try out our WeatherS
 
 ## **Design**
 
-The design element contains contains a class diagram which details how all classes, entities and attributes. Along with a system level state diagram which details the states of the classes and attributes of the system. Finally A sequence diadram was included to display how a user may interfact with WeatherSimple. 
+The design element contains prototypes for WeatherSimple along with a class diagram which details how all classes, entities and attributes. Along with a system level state diagram which details the states of the classes and attributes of the system. Finally A sequence diadram was included to display how a user may interfact with WeatherSimple. 
 
 ## **Requirements**
 
-This section consists of  requirements for the program presented throughout multiple diagrams and descriptions. 
-
-These include the Requirements Diagram, the User Interaction Interface, and Functioning Web Application. 
-
-Along with each requirement, a small description and potential scenario is added in order to help further comprehension of each requirement. 
+This section consists of  requirements for the program presented throughout multiple diagrams and descriptions. These include the Requirements Diagram, the User Interaction Interface, and Functioning Web Application. Along with each requirement, a small description and potential scenario is added in order to help further comprehension of each requirement. 
 
 ## **Test Cases**
 
